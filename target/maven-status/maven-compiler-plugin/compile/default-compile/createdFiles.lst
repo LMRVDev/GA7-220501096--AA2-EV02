@@ -1,6 +1,0 @@
-com/crm/dominio/Cliente.class
-com/crm/controlclientes/JakartaRestConfiguration.class
-com/crm/web/ServletControlador.class
-com/crm/datos/ClienteDaoJDBC.class
-com/crm/datos/Conexion.class
-com/crm/controlclientes/resources/JakartaEE10Resource.class
